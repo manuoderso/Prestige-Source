@@ -1,0 +1,13 @@
+/*
+ * Decompiled with CFR 0.152.
+ */
+package dev.zprestige.prestige;
+
+import java.lang.annotation.Retention;
+import java.lang.annotation.RetentionPolicy;
+
+@Retention(value=RetentionPolicy.RUNTIME)
+public @interface cQ {
+    public String value();
+}
+

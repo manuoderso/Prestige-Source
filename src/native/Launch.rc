@@ -1,0 +1,6 @@
+101 RCDATA "build\\PrestigeBridge.dll"
+102 RCDATA "assets\\client-core.dll"
+103 RCDATA "assets\\client.bin"
+104 RCDATA "assets\\mappings.tiny"
+105 RCDATA "build\\attach.jar"
+106 RCDATA "assets\\java-runtime.zip"
