@@ -24,4 +24,4 @@ Checks covered client startup, 121 modules, 686 setting fields, opening the menu
 
 The original native C++ sources could not be recovered from the DLL. The C++ files here contain the newly written code. The Java files are decompiled sources -> some methods were not fully reconstructed by the decompiler.
 
-This source only folder is therefore not a standalone runnable or fully buildable project. The not legal version also requires the recovered native components, client archive, Minecraft mappings, Java helpers, and supporting libraries. Those components were omitted from this folder as requested.
+This source only folder is therefore not a standalone runnable or fully buildable project. The not legal version also requires the recovered native components, client archive, Minecraft mappings, Java helpers, and supporting libraries.
